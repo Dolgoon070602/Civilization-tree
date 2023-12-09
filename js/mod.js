@@ -1,11 +1,11 @@
 let modInfo = {
-	name: "The ??? Tree",
-	id: "mymod",
-	author: "nobody",
-	pointsName: "points",
+	name: "The Civilization Tree",
+	id: "civtreebydol07",
+	author: "Dolgoon",
+	pointsName: "ideas",
 	modFiles: ["layers.js", "tree.js"],
 
-	discordName: "",
+	discordName: "Dolgoon070602",
 	discordLink: "",
 	initialStartPoints: new Decimal (10), // Used for hard resets and new players
 	offlineLimit: 1,  // In hours
